@@ -1,6 +1,6 @@
 # crypto_analytycs
 
-A new Flutter project.
+First Flutetr project. Curruncy list
 
 ## Getting Started
 
