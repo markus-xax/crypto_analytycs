@@ -19,7 +19,7 @@ class CurrencyTile extends StatelessWidget {
         style: Theme.of(context).textTheme.bodyMedium,
       ),
       subtitle: Text(
-        '${price}',
+        price,
         style: Theme.of(context).textTheme.bodySmall,
       ),
       leading: SvgPicture.asset(
